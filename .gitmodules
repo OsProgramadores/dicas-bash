@@ -1,0 +1,3 @@
+[submodule "themes/hugo-remark-twemoji"]
+	path = themes/hugo-remark-twemoji
+	url = https://github.com/eueung/hugo-remark-twemoji.git
