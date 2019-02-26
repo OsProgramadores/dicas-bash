@@ -1,7 +1,5 @@
-/* official remark demo by gnab */
-
       body {
-        font-family: 'Droid Serif';
+        font-family: 'Droid Sans' !important;
       }
       h1, h2, h3 {
         font-family: 'Yanone Kaffeesatz';
@@ -26,7 +24,11 @@
         background: #e7e8e2;
         border-radius: 5px;
       }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-code, .remark-inline-code {
+        font-family: 'Ubuntu Mono';
+        padding-left: 0.4em;
+        padding-right: 0.4em;
+      }
       .remark-code-line-highlighted     { background-color: #373832; }
       .pull-left {
         float: left;
@@ -103,4 +105,16 @@
         width: 75%;
         float: right;
         padding-top: 1em;
+      }
+      /* Warning pane */
+      .warning {
+        padding: 0.5em;
+        border-radius: 5px;
+        background-color: #fff1d3;
+      }
+      .warning p {
+        margin-top: 0.5em;
+      }
+      .warning h1, .warning h2, .warning h3, .warning-h4 {
+        text-align: center;
       }
