@@ -110,7 +110,10 @@
       }
       /* Warning pane */
       .warning {
-        padding: 0.5em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
         border-radius: 5px;
         background-color: #fff1d3;
       }
