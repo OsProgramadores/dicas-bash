@@ -80,7 +80,7 @@ Quando digitamos seta-para-cima para recuperar o comando anterior, o bash está
 retornando comandos armazenados no histórico de comandos.
 
 É também possível usar o comando `history` para visualizar o que está guardado
-no history até o momento:
+no histórico até o momento:
 
 Ex:
 
@@ -92,7 +92,7 @@ $ history
 ```
 
 **Dica**: Para executar um comando diretamente do prompt pelo número. Digite
-`!n` onde `n` é o numero do comando no history.
+`!n` onde `n` é o numero do comando no histórico.
 ]
 ---
 .left-column[
