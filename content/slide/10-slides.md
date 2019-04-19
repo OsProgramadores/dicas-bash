@@ -403,7 +403,7 @@ algo mais útil.
   ### Modificando PS1
 ]
 .right-column[
-* Baixe o arquivo [ps1.sh](/files/ps1.sh)
+* Baixe o arquivo [ps1.sh](files/ps1.sh)
 
 * Adicione o conteúdo deste arquivo ao seu arquivo `~/.bashrc`.
 
