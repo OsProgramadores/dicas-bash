@@ -37,7 +37,7 @@ trabalhando no ambiente Linux/Unix.
 
 - Para tornar as configurações permanentes, edite o arquivo `~/.bashrc` (um dos
   arquivos de inicialização do bash) e insira os comandos naquele arquivo
-  (normalmente, no final). Para iniciantos, o `nano` é um editor simples e
+  (normalmente, no final). Para iniciantes, o `nano` é um editor simples e
   intuitivo.
 ]
 ---
